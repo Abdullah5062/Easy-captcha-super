@@ -1,2 +1,2 @@
-# Easy-captcha-super
-Developed by Shaikh Abdullah Ahmed
+# EasyCaptcha24
+Easy Captcha 24/7 services
